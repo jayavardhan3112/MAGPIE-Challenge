@@ -4,6 +4,6 @@
 
 #### The project is built using NodeJS for the backend and ReactJS for the frontend and used tailwind and MongoDB
 
-- [Frontend README](https://github.com/jayavardhan3112/Coderbyte/blob/main/frontend/README.md)
+- [Frontend README](https://github.com/jayavardhan3112/MAGPIE-Challenge/blob/main/frontend/README.md)
 
-- [Backend README](https://github.com/jayavardhan3112/Coderbyte/blob/main/backend/README.md)
+- [Backend README](https://github.com/jayavardhan3112/MAGPIE-Challenge/blob/main/backend/README.md)
